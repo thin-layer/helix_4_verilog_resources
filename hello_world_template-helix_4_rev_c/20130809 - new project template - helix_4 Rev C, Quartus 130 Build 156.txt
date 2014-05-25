@@ -1,0 +1,10 @@
+20130517
+- added warning about default install to batch file
+20130519
+- added SDC constraint for SRAM
+20130612
+- EPCS pin error in top level fixed
+201308015
+ - integrated Qsys, made Quartus version agnostic
+20131124
+ - gpio8 drives led, not gpio9, corrected top level

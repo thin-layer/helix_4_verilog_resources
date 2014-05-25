@@ -1,0 +1,15 @@
+20130517
+- added warning about default install to batch file
+20130519
+- added SDC constraint for SRAM
+20130526
+- fixed wiring epcs to pins for qsys adder
+20130530
+- transition to Rev D Multi-shield board
+20130605
+- RSTn pins changed to inout for Rev D board
+201308015
+- integrated Qsys, made Quartus version agnostic
+20130826
+- removed unncessary files
+- found error in top level file

@@ -1,0 +1,7 @@
+20130725
+- Template Created
+20130809
+- Changed batch files to use environment variables
+- integrated Qsys, made Quartus version agnostic
+ 20130826
+- changed qsys osc back to 50mhz
